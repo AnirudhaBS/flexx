@@ -29,38 +29,38 @@ h2{
 
 }
 .box1{
-    rotate: 45deg;
+    /* rotate: 45deg; */
     border-radius: 25px;
 }
 .box2{
-    rotate: 45deg;
+    /* rotate: 45deg; */
     border-radius: 25px;
 }
 .box3{
-    rotate: 45deg;
+    /* rotate: 45deg; */
     border-radius: 25px;
 }
 .box4{
-    rotate: 45deg;
+    /* rotate: 45deg; */
     border-radius: 25px;
 }
 .box1:hover {
     font-size: larger;
     background-color: deeppink;
-    rotate: 0deg;
+    rotate: 45deg;
 }
 .box2:hover {
     font-size: larger;
     background-color: deeppink;
-    rotate: 0deg;
+    rotate: 45deg;
 }
 .box3:hover {
     font-size: larger;
     background-color: deeppink;
-    rotate: 0deg;
+    rotate: 45deg;
 }
 .box4:hover {
     font-size: larger;
     background-color: deeppink;
-    rotate: 0deg;
+    rotate: 45deg;
 }
